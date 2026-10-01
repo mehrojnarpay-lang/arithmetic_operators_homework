@@ -5,3 +5,7 @@
 # total o'zgaruvchisini yarating va unga (x * y) - a + b qiymatini belgilang.
 
 # Natija qiymatini chop eting.
+x = 10
+y = 5
+total = (x * y) - x + y
+print(total)
